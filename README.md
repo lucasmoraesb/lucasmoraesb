@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Lucas
 
-<!--
-**lucasmoraesb/lucasmoraesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer**  
+🎓 Studying at the **Federal University of Technology – Paraná (UTFPR)**  
+🌱 Currently learning **Node.js**, **React.js**, and **TypeScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/lucasdemoraesborges/)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasmoraesb&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraesb&layout=compact&langs_count=5&theme=tokyonight)
