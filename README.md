@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Lucas
 
 💻 **Full Stack Developer**  
-🎓 Studying at the **Universidade Federal do Paraná – Paraná (UTFPR)**  
+🎓 Studying at the **Universidade Tecnológica Federal do Paraná – Paraná (UTFPR)**  
 🌱 Currently learning **Node.js**, **React.js**, and **TypeScript**.
 
 ---
